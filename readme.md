@@ -1,5 +1,5 @@
 # This is the best github repo 
-the good balnce of life is 
+The good balnce of life is 
 1. Eat
 2. Code 
 3. Conversation
